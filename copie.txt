@@ -1,0 +1,1921 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Celebian">
+    <meta name="application-name" content="Celebian">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ec3554">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/css/style.css?id=a37ee44cad5f9b002990fe7bad0a0112">
+    <!-- CONSENT -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){
+            window.dataLayer.push(arguments);
+        }
+    </script>
+            <script>
+            window.__consent = {
+                "ask_consent": false
+            };
+
+            gtag('consent', 'default', {
+                'ad_storage': 'granted',
+                'ad_user_data': 'granted',
+                'ad_personalization': 'granted',
+                'analytics_storage': 'granted'
+            });
+        </script>
+        <!-- CONSENT END -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NMF3ZSL');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script>
+        window._CUSTOM_USER_DATA = {
+                    }
+    </script>
+
+        <title>Celebian — Purchase TikTok likes, followers & views</title>
+    <meta
+        name="description"
+        content="At Celebian you can buy TikTok followers, likes and views of highest quality. Trusted by thousands of clients and rated 'Excellent' on Trustpilot - Celebian is the platform for your TikTok marketing needs. All of our services are verified and delivery is guaranteed ✅"
+    >
+
+    <link href="https://celebian.com" rel="canonical">
+
+    <meta property="og:url" content="https://celebian.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Celebian — Purchase TikTok likes, followers & views">
+    <meta property="og:description"
+          content="At Celebian you can buy TikTok followers, likes and views of highest quality. Trusted by thousands of clients and rated 'Excellent' on Trustpilot - Celebian is the platform for your TikTok marketing needs. All of our services are verified and delivery is guaranteed ✅">
+    <meta property="og:image" content="https://celebian.com/img/rasterized/product-card__celebian.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="celebian.com">
+    <meta property="twitter:url" content="https://celebian.com">
+    <meta name="twitter:title" content="Celebian — Purchase TikTok likes, followers & views">
+    <meta name="twitter:description"
+          content="At Celebian you can buy TikTok followers, likes and views of highest quality. Trusted by thousands of clients and rated 'Excellent' on Trustpilot - Celebian is the platform for your TikTok marketing needs. All of our services are verified and delivery is guaranteed ✅">
+    <meta name="twitter:image" content="https://celebian.com/img/rasterized/product-card__celebian.png">
+
+    <link rel="stylesheet" href="/js/lite-yt-embed.css" fetchPriority="low"/>
+
+    <!-- PRELOAD START -->
+    <link rel="preload" fetchPriority="high" as="image" href="/img/videos/tt_dance.webp" type="image/webp"/>
+    <!-- PRELOAD END -->
+</head>
+
+<!-- Google Tag Manager Activation -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HCGJSK" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- Google Tag Manager Activation end -->
+
+    <body>
+    
+    <div class="menu-anchor" style="position: relative">
+                <menu class="menu ">
+    <div class="menu__inner">
+                    <div class="menu__logo">
+                <a href="/" content="To homepage"><img src="/img/tft-white.svg" alt="White Celebian logo" draggable="false" /></a>
+            </div>
+                <div class="menu__desktop">
+            <div class="menu__links-wrapper">
+                <a class="menu__link" data-button-analytics-id="Likes - Menu" href="/buy-tiktok-likes">
+                    <div>
+                        <p>Likes</p>
+                    </div>
+                </a>
+                <a class="menu__link" data-button-analytics-id="Views - Menu" href="/buy-tiktok-views">
+                    <div>
+                        <p>Views</p>
+                    </div>
+                </a>
+                <a class="menu__link" data-button-analytics-id="Followers - Menu" href="/buy-tiktok-followers">
+                    <div>
+                        <p>Followers</p>
+                    </div>
+                </a>
+                <a class="menu__link" data-button-analytics-id="Automatic Likes - Menu" href="/buy-automatic-tiktok-likes">
+                    <div>
+                        <p>Automatic Likes</p>
+                    </div>
+                </a>
+                <a class="menu__link" data-button-analytics-id="Automatic Views - Menu" href="/buy-automatic-tiktok-views">
+                    <div>
+                        <p>Automatic Views</p>
+                    </div>
+                </a>
+                                    <a class="menu__link" data-button-analytics-id="Log in - Menu" href="/auth">
+                        <div>
+                            <p>Log in</p>
+                        </div>
+                    </a>
+                            </div>
+        </div>
+                    <div class="menu__button-wrapper">
+                <img class="menu__button menu__button--action-open" src="/img/icons/menu__open--white.svg" alt="Open menu purple button" draggable="false" />
+            </div>
+            </div>
+    <div class="menu__overlay overlay">
+        <div class="overlay__inner">
+            <div class="menu__inner">
+                <div class="menu__title">
+                    <h2>Menu</h2>
+                </div>
+                <div class="menu__button-wrapper">
+                    <img loading="lazy" class="menu__button menu__button--action-close" src="/img/icons/menu__close--red.svg" alt="Close menu icon" draggable="false" />
+                </div>
+            </div>
+            <div class="overlay__content">
+                <div class="overlay__services-section">
+                    <a href="/buy-tiktok-likes" data-button-analytics-id="Likes - Menu" class="overlay-button">
+                        <img loading="lazy" src="/img/icons/likes-small.svg" alt="Likes icon" draggable="false" />
+                        <span>Likes</span>
+                    </a>
+                    <a href="/buy-tiktok-followers" data-button-analytics-id="Followers - Menu" class="overlay-button">
+                        <img loading="lazy" src="/img/icons/followers-small.svg" alt="Followers icon" draggable="false" />
+                        <span>Followers</span>
+                    </a>
+                    <a href="/buy-tiktok-views" data-button-analytics-id="Views - Menu" class="overlay-button">
+                        <img loading="lazy" src="/img/icons/views-small.svg" alt="Views icon" draggable="false" />
+                        <span>Views</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-likes" data-button-analytics-id="Automatic Likes - Menu" class="overlay-button">
+                        <img loading="lazy" src="/img/icons/automatic-likes--red.svg" alt="Automatic Likes icon" draggable="false" />
+                        <span>Automatic Likes</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-views" data-button-analytics-id="Automatic Views - Menu" class="overlay-button">
+                        <img loading="lazy" src="/img/icons/automatic-views--red.svg" alt="Autoamtic Views icon" draggable="false" />
+                        <span>Automatic Views</span>
+                    </a>
+                </div>
+                <div class="overlay__links-section">
+                                            <a href="/auth" data-button-analytics-id="Log in - Menu" class="overlay-button overlay-button--purple">
+                            <img loading="lazy" src="/img/icons/arrow-full-left-purple.svg" style="transform: rotate(180deg)" alt="Arrow icon" draggable="false" />
+                            <span>Log in</span>
+                        </a>
+                                        <a href="/support" data-button-analytics-id="Support - Menu" class="overlay-button overlay-button--purple">
+                        <img loading="lazy" src="/img/icons/arrow-full-left-purple.svg" style="transform: rotate(180deg)" alt="Arrow icon" draggable="false" />
+                        <span>Support</span>
+                    </a>
+                    <a href="/blog" data-button-analytics-id="Blog - Menu" class="overlay-button overlay-button--purple">
+                        <img loading="lazy" src="/img/icons/arrow-full-left-purple.svg" style="transform: rotate(180deg)" alt="Arrow icon" draggable="false" />
+                        <span>Blog</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</menu>
+
+        <section id="splash">
+            <div id="splash-background"></div>
+            <video id="splash-video-background" class="splash-illustration-canvas"
+                   poster="/img/videos/tt_dance_x640.webp" disableRemotePlayback preload tabindex="-1" loop muted="true"
+                   playsinline>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x320.webm"
+                        media="all and (max-width: 320px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x360.webm"
+                        media="all and (max-width: 360px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x380.webm"
+                        media="all and (max-width: 380px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x420.webm"
+                        media="all and (max-width: 420px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x480.webm"
+                        media="all and (max-width: 480px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x500.webm"
+                        media="all and (max-width: 500px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x560.webm"
+                        media="all and (max-width: 560px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x600.webm"
+                        media="all and (max-width: 600px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x640.webm"
+                        media="all and (max-width: 640px)"/>
+                <source type="video/webm" data-src="/img/videos/webm/tt_dance_x720.webm"
+                        media="all and (max-width: 720px)"/>
+
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x320.mp4"
+                        media="all and (max-width: 320px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x360.mp4"
+                        media="all and (max-width: 360px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x380.mp4"
+                        media="all and (max-width: 380px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x420.mp4"
+                        media="all and (max-width: 420px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x480.mp4"
+                        media="all and (max-width: 480px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x500.mp4"
+                        media="all and (max-width: 500px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x560.mp4"
+                        media="all and (max-width: 560px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x600.mp4"
+                        media="all and (max-width: 600px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x640.mp4"
+                        media="all and (max-width: 640px)"/>
+                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/tt_dance_x720.mp4"
+                        media="all and (max-width: 720px)"/>
+
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x320.mp4" media="all and (max-width: 320px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x360.mp4" media="all and (max-width: 360px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x380.mp4" media="all and (max-width: 380px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x420.mp4" media="all and (max-width: 420px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x480.mp4" media="all and (max-width: 480px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x500.mp4" media="all and (max-width: 500px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x560.mp4" media="all and (max-width: 560px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x600.mp4" media="all and (max-width: 600px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x640.mp4" media="all and (max-width: 640px)"/>
+                <source type="video/mp4" data-src="/img/videos/tt_dance_x720.mp4" media="all and (max-width: 720px)"/>
+            </video>
+            <div id="splash-content">
+                <div id="splash-text">
+                    <h1>Purchase TikTok followers, likes and views</h1>
+                    <p>Celebian is a top-rated TikTok growth platform for a good reason. Explore the quality services we
+                        offer below.</p>
+                    <div class="splash-trustpilot">
+                        <img src="/img/illustrations/trustpilot-5-stars.svg" alt="Trustpilot - 5 stars"
+                             draggable="false" width="160" height="30"/>
+                        <p>4.7 | Rated Excellent on Trustpilot</p>
+                    </div>
+                    <div class="button text-pink black-shadow to-all-services"
+                         data-button-analytics-id="See all services - Landing">See all services
+                    </div>
+                    <img fetchpriority="high" class="splash__title-scribbles"
+                         src="/img/illustrations/landing-title__scribbles--white.webp"
+                         alt="Scribbles with exclamations"/>
+                    <img fetchpriority="high" class="splash__button-scribbles"
+                         src="/img/illustrations/landing-button__scribbles--white.webp"
+                         alt="An arrow pointing down with a smiley face"/>
+                </div>
+                <div id="splash-illustration">
+                    <video id="splash-illustration-top-left" class="splash-illustration-canvas"
+                           poster="/img/splash/dog.webp" disableRemotePlayback preload="metadata" tabindex="-1" loop
+                           muted="true" playsinline>
+                        <source type="video/webm" data-src="/img/splash/webm/dog_x180.webm"/>
+                        <source type="video/mp4; codecs=hevc" data-src="/img/splash/hevc/dog_x180.mp4"/>
+                        <source type="video/mp4" data-src="/img/splash/dog_x180.mp4"/>
+                    </video>
+                    <video id="splash-illustration-bottom-left" class="splash-illustration-canvas"
+                           poster="/img/splash/parisoslo.webp" disableRemotePlayback preload="metadata" tabindex="-1"
+                           loop muted="true" playsinline>
+                        <source type="video/webm" data-src="/img/splash/webm/parisoslo_x180.webm"/>
+                        <source type="video/mp4; codecs=hevc" data-src="/img/splash/hevc/parisoslo_x180.mp4"/>
+                        <source type="video/mp4" data-src="/img/splash/parisoslo_x180.mp4"/>
+                    </video>
+                    <video id="splash-illustration-right" class="splash-illustration-canvas"
+                           poster="/img/splash/iphone11.webp" disableRemotePlayback preload="metadata" tabindex="-1"
+                           loop muted="true" playsinline>
+                        <source type="video/webm" data-src="/img/splash/webm/iphone11_x180.webm"/>
+                        <source type="video/mp4; codecs=hevc" data-src="/img/splash/hevc/iphone11_x180.mp4"/>
+                        <source type="video/mp4" data-src="/img/splash/iphone11_x180.mp4"/>
+                    </video>
+                </div>
+                <script>
+                    let display_mobile_video = undefined;
+                    const media_query = window.matchMedia("all and (max-width: 640px)");
+                    media_query.addEventListener("change", setSourceForVisibleVideos);
+
+                    function setSourceForVisibleVideos(event) {
+                        const query_matches = event.matches;
+                        if (display_mobile_video !== query_matches) {
+                            var video_selector = query_matches ?
+                                "#splash-video-background.splash-illustration-canvas"
+                                : "#splash-illustration .splash-illustration-canvas";
+
+                            for (var video_element of document.querySelectorAll(video_selector)) {
+                                var source_changed = false;
+
+                                video_element.querySelectorAll("source").forEach(source => {
+                                    if (source.src === "") {
+                                        source.src = source.dataset.src
+                                        source_changed = true;
+                                    }
+                                });
+
+                                if (source_changed) {
+                                    video_element.load();
+                                }
+                            }
+
+                            display_mobile_video = query_matches;
+                        }
+                    }
+
+                    setSourceForVisibleVideos(media_query);
+                </script>
+            </div>
+        </section>
+    </div>
+    <div id="landing-sections-boundary">
+        <section id="landing-services-menu" class="service-section">
+            <div class="service-menu">
+                <div class="product-video">
+                    <h2 class="product-video__title">Our Services</h2>
+                    <div class="product-video__embed">
+                        <lite-youtube style="background-image: url('/img/rasterized/video-landing__thumbnail.webp');"
+                                      videoid="hlEyJesPOUM" params="controls=1&playsinline=1&rel=0&color=red"
+                                      playlabel="Celebian - Introduction to purchasing TikTok likes, followers and views"></lite-youtube>
+                    </div>
+                </div>
+                <div class="service-menu__actions">
+                    <a href="/buy-tiktok-likes" data-button-analytics-id="Buy likes - Quick menu - Landing"
+                       class="inset-button inset-button--light-red">
+                        <img loading="lazy" src="/img/icons/likes-small.svg" alt="Likes icon" draggable="false"/>
+                        <span>Buy Likes</span>
+                    </a>
+                    <a href="/buy-tiktok-followers" data-button-analytics-id="Buy followers - Quick menu - Landing"
+                       class="inset-button inset-button--light-red">
+                        <img loading="lazy" src="/img/icons/followers-small.svg" alt="Followers icon"
+                             draggable="false"/>
+                        <span>Buy Followers</span>
+                    </a>
+                    <a href="/buy-tiktok-views" data-button-analytics-id="Buy views - Quick menu - Landing"
+                       class="inset-button inset-button--light-red">
+                        <img loading="lazy" src="/img/icons/views-small.svg" alt="Views icon" draggable="false"/>
+                        <span>Buy Views</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-likes"
+                       data-button-analytics-id="Buy Automatic Likes - Quick menu - Landing"
+                       class="inset-button inset-button--light-red">
+                        <img loading="lazy" src="/img/icons/automatic-likes--red.svg" alt="Views icon"
+                             draggable="false"/>
+                        <span>Buy Automatic Likes</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-views"
+                       data-button-analytics-id="Buy Automatic Views - Quick menu - Landing"
+                       class="inset-button inset-button--light-red">
+                        <img loading="lazy" src="/img/icons/automatic-views--red.svg" alt="Views icon"
+                             draggable="false"/>
+                        <span>Buy Automatic Views</span>
+                    </a>
+                </div>
+                <img loading="lazy" class="service-menu__scribbles" src="/img/illustrations/service-menu__scribbles.svg"
+                     alt="Arrow pointing down"/>
+                <img loading="lazy" class="service-menu__title-scribbles"
+                     src="/img/illustrations/service-menu__title-scribbles.svg"
+                     alt="Illustration elements enhancing the title"/>
+            </div>
+        </section>
+        <section id="landing-services-likes" class="service-section">
+            <div class="inner">
+                <div class="service-description">
+                    <h2>Boost your posts with our <span class="color-red">likes</span></h2>
+                    <p>
+                        Starting
+                        at $2.49 USD
+                        with <strong>crazy good quality</strong> and lots of packages to choose from. Our TikTok likes
+                        will give
+                        your account the desired boost and <strong>help you grow</strong>.
+                    </p>
+                    <a href="/buy-tiktok-likes#packages-anchor" data-button-analytics-id="See likes packages - Landing"
+                       class="button red">See likes packages</a>
+                    <img loading="lazy" class="section-likes__scribbles"
+                         src="/img/illustrations/section-likes__scribbles.svg"
+                         alt="Illustration elements enhancing the See Likes Packages button"/>
+                </div>
+                <div class="service-illustration">
+                    <img loading="lazy" id="likes-figure" class="service-illustration-background" alt="Likes figure"
+                         draggable="false" src="/img/illustrations/figure-landing-likes.svg"/>
+                    <div id="likes-posts-illustration">
+                        <div class="tl post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>192.4K</span>
+                            </div>
+                            <video id="likes-post-tl-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/dance-rapper-smooth.webp" disableRemotePlayback
+                                   preload="metadata" tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/dance-rapper-smooth.webm"/>
+                                <source type="video/mp4; codecs=hevc"
+                                        data-src="/img/videos/hevc/dance-rapper-smooth.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/dance-rapper-smooth.mp4"/>
+                            </video>
+                        </div>
+                        <div class="bl post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>261.0K</span>
+                            </div>
+                            <video id="likes-post-bl-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/dancing-dog.webp" disableRemotePlayback preload="metadata"
+                                   tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/dancing-dog.webm"/>
+                                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/dancing-dog.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/dancing-dog.mp4"/>
+                            </video>
+                        </div>
+                        <div class="tm post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>82.6K</span>
+                            </div>
+                            <video id="likes-post-tm-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/cooking.webp" disableRemotePlayback preload="metadata"
+                                   tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/cooking.webm"/>
+                                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/cooking.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/cooking.mp4"/>
+                            </video>
+                        </div>
+                        <div class="bm post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>512.1K</span>
+                            </div>
+                            <video id="likes-post-bm-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/spinning.webp" disableRemotePlayback preload="metadata"
+                                   tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/spinning.webm"/>
+                                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/spinning.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/spinning.mp4"/>
+                            </video>
+                        </div>
+                        <div class="tr post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>384.4K</span>
+                            </div>
+                            <video id="likes-post-tr-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/dog.webp" disableRemotePlayback preload="metadata" tabindex="-1"
+                                   loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/dog.webm"/>
+                                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/dog.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/dog.mp4"/>
+                            </video>
+                        </div>
+                        <div class="br post">
+                            <div class="counter">
+                                <img loading="lazy" src="/img/icons/heart-nofill-white.svg"
+                                     alt="TikTok heart placeholder" draggable="false"/>
+                                <span>135.3K</span>
+                            </div>
+                            <video id="likes-post-br-canvas" class="splash-illustration-canvas lazy"
+                                   poster="/img/videos/dolls.webp" disableRemotePlayback preload="metadata"
+                                   tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm" data-src="/img/videos/webm/dolls.webm"/>
+                                <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/dolls.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/dolls.mp4"/>
+                            </video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="landing-services-followers" class="service-section">
+            <div class="inner">
+                <div class="service-illustration">
+                    <img loading="lazy" id="followers-figure" class="service-illustration-background"
+                         alt="Followers figure" draggable="false"
+                         src="/img/illustrations/figure-landing-followers.svg"/>
+                    <div id="followers-accounts-illustration">
+                        <div class="left-top account">
+                            <img loading="lazy" src="/img/illustrations/giddyboo_x120.webp" alt="TikTok user avatar"
+                                 draggable="false"/>
+                            <span><strong>giddyboo</strong> started following you.</span>
+                        </div>
+                        <div class="left-middle account">
+                            <img loading="lazy" src="/img/illustrations/annyj_x120.webp" alt="TikTok user avatar"
+                                 draggable="false"/>
+                            <span><strong>annyj_tee</strong> started following you.</span>
+                        </div>
+                        <div class="left-bottom account">
+                            <img loading="lazy" src="/img/illustrations/memes_x120.webp" alt="TikTok user avatar"
+                                 draggable="false"/>
+                            <span><strong>funmemes</strong> started following you.</span>
+                        </div>
+                        <div class="right-top account">
+                            <img loading="lazy" src="/img/illustrations/dalix_x120.webp" alt="TikTok user avatar"
+                                 draggable="false"/>
+                            <span><strong>dalix_z100</strong> started following you.</span>
+                        </div>
+                        <div class="right-bottom account">
+                            <img loading="lazy" src="/img/illustrations/henry_x120.webp" alt="TikTok user avatar"
+                                 draggable="false"/>
+                            <span><strong>henry.janay</strong> started following you.</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="service-description">
+                    <h2>Buy <span class="color-red">followers</span> for your account</h2>
+                    <p>
+                        Our renowned TikTok fans start
+                        from $4.99 USD
+                        .
+                        Celebian's customers always enjoy <strong>fast delivery</strong>, real quality and excellent
+                        after-sales support.
+                    </p>
+                    <a href="/buy-tiktok-followers#packages-anchor"
+                       data-button-analytics-id="See followers packages - Landing" class="button red">See followers
+                        packages</a>
+                    <img loading="lazy" class="section-followers__scribbles"
+                         src="/img/illustrations/section-followers-views__scribbles.svg"
+                         alt="Illustration elements enhancing the space between sections"/>
+                </div>
+            </div>
+        </section>
+        <section id="landing-services-views" class="service-section">
+            <div class="inner">
+                <div class="service-description">
+                    <h2>Get lots of <span class="color-red">views</span> on your videos</h2>
+                    <p>
+                        With our cheapest package starting at
+                        only $1.49 USD
+                        you'll get your <strong>high-quality views</strong> delivered blazingly fast. We'll help you
+                        boost your videos to the top with ease.
+                    </p>
+                    <a href="/buy-tiktok-views#packages-anchor" data-button-analytics-id="See views packages - Landing"
+                       class="button red">See views packages</a>
+                </div>
+                <div class="service-illustration">
+                    <img loading="lazy" id="views-figure" class="service-illustration-background"
+                         alt="TikTok views background figure" draggable="false"
+                         src="/img/illustrations/figure-landing-views.svg"/>
+                    <div id="views-video">
+                        <div class="shadow"></div>
+                        <video id="views-video-canvas" class="splash-illustration-canvas lazy"
+                               poster="/img/videos/dance_x240.webp" disableRemotePlayback preload="metadata"
+                               tabindex="-1" loop muted="true" playsinline>
+                            <source type="video/webm" data-src="/img/videos/webm/dance_x240.webm"/>
+                            <source type="video/mp4; codecs=hevc" data-src="/img/videos/hevc/dance_x240.mp4"/>
+                            <source type="video/mp4" data-src="/img/videos/dance_x240.mp4"/>
+                        </video>
+                        <img loading="lazy" class="gui-overlay" draggable="false" alt="An app UI similar to TikTok"
+                             src="/img/illustrations/views-phone-overlay.svg">
+                        <img loading="lazy" class="frame" draggable="false" alt="A phone frame"
+                             src="/img/illustrations/iphone-views.svg">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="automatic-services-preamble centered-section">
+            <div class="inner">
+                <h2>Automatic Services</h2>
+                <p class="automatic-services-preamble__description">
+                    Unlock your full potential with our automatic services. We will detect your newest uploads in
+                    seconds and start
+                    delivering your likes and views automatically.
+                </p>
+                <p class="automatic-services-preamble__callout">
+                    Set your <strong>TikTok growth on autopilot</strong> and focus on delivering amazing content to your
+                    followers.
+                </p>
+                <img loading="lazy" class="automatic-services-preamble__title-scribbles"
+                     src="/img/illustrations/section-automatic__title-scribbles.svg"
+                     alt="Illustration on top of title to enhance it" draggable="false"/>
+                <img loading="lazy" class="automatic-services-preamble__scribbles"
+                     src="/img/illustrations/section-automatic__scribbles.svg"
+                     alt="Illustration below the callout to underline its importance" draggable="false"/>
+            </div>
+        </section>
+        <!-- AUTOMATIC LIKES SECTION -->
+        <section class="automatic-likes service-section">
+            <div class="inner">
+                <!-- AUTOMATIC LIKES DESCRIPTION -->
+                <div class="service-description">
+                    <h2>Exclusive <span class="color-red">automatic likes</span></h2>
+                    <p>
+                        Skyrocket your engagement with <strong>thousands of likes</strong> on every new TikTok post.
+                        Starting at only
+                        $2.19 USD
+                        /post
+                        you will receive likes <strong>as soon as you upload</strong>!
+                    </p>
+                    <a href="/buy-automatic-tiktok-likes#packages-anchor"
+                       data-button-analytics-id="See likes packages - Landing" class="button red">Browse automatic
+                        likes</a>
+                </div>
+                <!-- AUTOMATIC LIKES DESCRIPTION END -->
+                <!-- AUTOMATIC LIKES ILLUSTRATION -->
+                <div class="automatic-likes__illustration service-illustration">
+                    <img loading="lazy" class="background-figure" alt="Automatic Likes background figure"
+                         draggable="false" src="/img/illustrations/figure-landing__automatic-likes.svg"/>
+                    <div class="overlay-group">
+                        <div class="uploading-element">
+                            <div class="uploading-element__loading">
+                                <img loading="lazy" src="/img/icons/loader.svg"
+                                     alt="Loader illustration demonstrating uploading a new TikTok post"
+                                     draggable="false"/>
+                                <p>Publishing...</p>
+                            </div>
+                            <div class="uploading-element__done">
+                                <img loading="lazy" src="/img/icons/checkmark__circle--green.svg"
+                                     alt="Checkmark illustration showing that uplaod of a new TikTok post is completed"
+                                     draggable="false"/>
+                                <p>Done!</p>
+                            </div>
+                        </div>
+                        <div class="post-element">
+                                                        <video class="post-element__video lazy" poster="/img/videos/interview_x300.webp"
+                                   disableRemotePlayback preload="metadata" tabindex="-1" loop muted="true" playsinline>
+                                <source type="video/webm"
+                                        data-src="/img/videos/webm/interview_x240.webm"/>
+                                <source type="video/mp4; codecs=hevc"
+                                        data-src="/img/videos/hevc/interview_x240.mp4"/>
+                                <source type="video/mp4" data-src="/img/videos/interview_x240.mp4"/>
+                            </video>
+                            <div class="post-element__shadow"></div>
+                        </div>
+                        <div class="published-element">
+                            <img loading="lazy" src="/img/icons/instant--grey.svg" alt="TikTok likes icon"
+                                 draggable="false"/>
+                            <p>Uploaded <span></span> ago</p>
+                        </div>
+                        <div class="likes-counter">
+                            <img loading="lazy" src="/img/icons/heart--filled--red.svg" alt="TikTok likes icon"
+                                 draggable="false"/>
+                            <p>0</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- AUTOMATIC LIKES ILLUSTRATION END -->
+            </div>
+        </section>
+        <!-- AUTOMATIC LIKES SECTION END -->
+        <!-- AUTOMATIC VIEWS SECTION -->
+        <section class="automatic-views service-section">
+            <div class="inner">
+                <!-- AUTOMATIC LIKES ILLUSTRATION -->
+                <div class="automatic-views__illustration service-illustration">
+                    <img loading="lazy" class="background-figure" alt="Automatic Views background figure"
+                         draggable="false" src="/img/illustrations/figure-landing__automatic-views.svg"/>
+                    <div class="video-cards-wrapper">
+                        <div class="video-card">
+                            <img loading="lazy" src="/img/illustrations/comedy-post.webp"
+                                 alt="Thumbnail illustrating an uploaded TikTok post" draggable="false"/>
+                            <div class="video-card__metrics">
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/views__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/likes__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/comment--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="video-card">
+                            <img loading="lazy" src="/img/illustrations/selfie-post.webp"
+                                 alt="Thumbnail illustrating an uploaded TikTok post" draggable="false"/>
+                            <div class="video-card__metrics">
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/views__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/likes__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/comment--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="video-card">
+                            <img loading="lazy" src="/img/illustrations/trick-post.webp"
+                                 alt="Thumbnail illustrating an uploaded TikTok post" draggable="false"/>
+                            <div class="video-card__metrics">
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/views__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/likes__menu--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                                <div class="video-card__metric-cell">
+                                    <img loading="lazy" src="/img/icons/comment--red.svg"
+                                         alt="Views icon displaying views count" draggable="false"/>
+                                    <p>0</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="comments-wrapper">
+                        <div class="comment-element">
+                            <p>❤️ ily</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>Amazing!</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>#fyp</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>🤩️</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>WOW</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>ur going viral 🚀</p>
+                        </div>
+                        <div class="comment-element">
+                            <p>so coool</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- AUTOMATIC LIKES ILLUSTRATION END -->
+                <!-- AUTOMATIC LIKES DESCRIPTION -->
+                <div class="service-description">
+                    <h2>Get <span class="color-red">automatic views</span> instantly</h2>
+                    <p>
+                        Take the ultimate #fyp shortcut by automatically boosting all new TikTok videos with <strong>our
+                            amazing views</strong>.
+                        Double your reach for as low
+                        as $1.29 USD
+                        /post!
+                    </p>
+                    <a href="/buy-automatic-tiktok-views#packages-anchor"
+                       data-button-analytics-id="See followers packages - Landing" class="button red">Explore automatic
+                        views</a>
+                </div>
+                <!-- AUTOMATIC LIKES DESCRIPTION END -->
+            </div>
+        </section>
+        <!-- AUTOMATIC VIEWS SECTION END -->
+        <section id="landing-free-trial" class="centered-section">
+            <div class="generic-divider background-top-divider"></div>
+            <div class="generic-divider background-bottom-divider"></div>
+            <div class="inner">
+                <h2>Free stuff!</h2>
+                <p>
+                    We expect that many of our first-time visitors are hesitant. Some might want to see and understand
+                    how Celebian works while others might want to test the quality of our services.
+                    <br><br>
+                    Well, you're in the right spot.
+                    There are two trial offers available which you can enjoy free of charge.
+                </p>
+                <a href="/free-tiktok-likes" data-button-analytics-id="Free TikTok likes - Landing"
+                   class="inset-button white">
+                    <img loading="lazy" src="/img/icons/likes-small-white.svg" alt="Add likes icon" draggable="false"/>
+                    <span>Free TikTok likes</span>
+                </a>
+                <a href="/free-tiktok-views" data-button-analytics-id="Free TikTok views - Landing"
+                   class="inset-button white">
+                    <img loading="lazy" src="/img/icons/views-small-white.svg" alt="Add views icon" draggable="false"/>
+                    <span>Free TikTok views</span>
+                </a>
+            </div>
+        </section>
+        <section id="landing-why-us" class="points-section">
+            <div class="inner">
+                <h2>We're all about</h2>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/cheap.svg" alt="Icon cheap price" draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Affordable</h3>
+                        <p>Top quality services with prices that won’t break the bank.</p>
+                    </div>
+                </div>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/instant.svg" alt="Icon instant delivery" draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Instant start</h3>
+                        <p>We have automatic delivery that starts as soon as you place your order.</p>
+                    </div>
+                </div>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/reliable.svg" alt="Icon reliable delivery"
+                             draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Reliable delivery</h3>
+                        <p>Our state-of-the-art order execution system takes care of your purchase.</p>
+                    </div>
+                </div>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/flexible--red.svg" alt="Icon flexible packages"
+                             draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Flexible packages</h3>
+                        <p>We can deliver likes, views and followers for accounts of all sizes.</p>
+                    </div>
+                </div>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/support.svg" alt="Icon great support" draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Awesome support</h3>
+                        <p>Your experience is our priority and our team is always ready to help.</p>
+                    </div>
+                </div>
+                <div class="point">
+                    <div class="point-icon">
+                        <img loading="lazy" src="/img/icons/trusted--red.svg" alt="Icon trusted platform"
+                             draggable="false"/>
+                    </div>
+                    <div class="point-text">
+                        <h3>Trusted platform</h3>
+                        <p>Celebian is trusted by thousands of our returning customers.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+                <section id="landing-reviews" class="reviews-section">
+            <div class="inner">
+                <div class="header">
+                    <h2>Customer reviews</h2>
+                    <p>Following <a class="link" href="/celebian-reviews"
+                                    data-button-analytics-id="Celebian review - Landing">Celebian reviews</a> are
+                        collected on our website, on Trustpilot and through email requests sent to randomly selected
+                        customers. We do mean it
+                        when we say that Celebian is top-rated and our Excellent rating on Trustpilot is just another
+                        proof of that.
+                        <a href="/support#support-contact" class="link"
+                           data-button-analytics-id="Submit your review - Landing">Submit your review here.</a></p>
+                </div>
+                <div class="rating wfwrc-total-data">
+                    <div class="star-rating wfwrc-total-star-rating">
+                                                                                    <div class="full-star"></div>
+                                                                                                                <div class="full-star"></div>
+                                                                                                                <div class="full-star"></div>
+                                                                                                                <div class="full-star"></div>
+                                                                                                                <div class="full-star"></div>
+                                                                        </div>
+                    <p class="rating-text">
+                        <strong><span class="wfwrc-total-rating">5</span> stars</strong> based on
+                        <strong><span class="wfwrc-total-reviews">34</span> reviews</strong>
+                    </p>
+                </div>
+                <div class="widget-full-width-reviews-carousel">
+                    <div class="wfwrc-inner">
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">You guys are so amazing...</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">You guys are so amazing. I don’t know what I’d do without you. I have my back up thanks to you guys. Thank you thank you thank you and I tell everybody about you guys.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Tammy Lynn Hill-Hendershot</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Stands out!!</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">You can&#039;t even compare competitors to celebian.com! They are not even close! Great job!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Emanuel Rickardsson</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Wow this is too good in viral videos I like this project 🥰🥰</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I love this app and I support this app thanks so much</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Saifullah Shah</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Bigger packages please</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I like the website but i need to buy more likes at once</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>Samiguf85</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Nice</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">nice i like it</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>princess brazil</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">not bad</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">pretty good, nice quality, had issues a few times but support fixed it</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>dot_dot_go</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">ITS SO GOOOD OMG</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">ITS SO GOOOD OMG</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Jassity Williams</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">As advertised</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">This is by far the best site I&#039;ve ever used. I have no complaints, support is quick.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>rowen_r</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Nothing but praise</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Can not say anything but good words about your service. Thanks for helping me out, the orders are now delivered in full and likes are very real.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Ramil I.</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">WOW!</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Youre dope!! thanks for this ill buy after too!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>_xXx_Zer0</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Great</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">This has been a lifesaver for the marketing of my business.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>Cecil Simone</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">It worked</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">It worked, i like how it wasnt all at the same time, it make it look more real</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Allen</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Game changer</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">okay so normally I take these as a joke as in they don’t work but this one omg it actually worked literally less then 5 mins &amp; Ik sum people see these &amp; think it’s fake but mhm dis one ain’t .</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Life wit Des</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">hahahaha you are crazy</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">your free likes work</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Helena</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Incredible service!</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">You&#039;re by far not the first website I&#039;ve used but you&#039;re most certainly the best. I&#039;ll be your continued customer.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Dan.Blitzweryan</span> was submitted in some other
+                                            way.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">I like</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">100% delivery and quickly as well!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>jjolly</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">It was owesome, amazing and unbelievable I was sincerely astonished trust me</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">... I didn&#039;t believe it at first but when I went to my tiktok the second time and checked I saw that the likes were like a bouquet feast on who to feed it was very enormous and outrageous thanks slot</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Vincent Ndubueze</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">wowza!</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">the best page ever, thanks for the free likes</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>montee</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Literally amazing</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Literally amazing 😻 I love y’all for for this</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Juan</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Trustworthy</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Out of all the websites - Celebian - is by far the most trustworthy.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Chloe</span> was submitted in some other
+                                            way.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Honest review</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I have become a returning customer and I am very happy with your services and my results. Your tools help me and my team control our branding and keep on growing our online presence.</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Olga Kuplivchuk</span> was submitted in some other
+                                            way.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Great</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Great quality</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Brooke Stephenson</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">yes!</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">yes! you are amazing!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review submitted on the web by <span>arctic.roar</span>.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Thank you.</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Hello, i like this app but pls just it needs to be more free stuff, thanks for free 100 likes for starting</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>new fanpage l M? l love yall</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Thanks</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">the free lieks really work!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>matari1187</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Amazing broo</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Nice, good, honest, like</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Farel</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Lots of love</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Lots of love ! Your service is great ! Will come back :)</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Houston General</span> was collected through our
+                                            email survey.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">I wish there was more free stuff</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="no-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I wish there was more free stuff because some people can&#039;t do all the verification and they really want to blow up on TikTok. So just think about it. Be super nice and helpful to people like me. Thank you so much!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Kali Thomas</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">it works</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">it works . try it out ✌️</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Cezen Shrestha</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Wow it&#039;s the better</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">Amazing and best support I&#039;m impressed with your amazing time</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Aryan FF</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">🧡</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">this best website to get like</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Karuna Shrestha</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">Nice concept</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I like your this concept</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Prabhat Adhikari</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">10/10 legit and trusting</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">10/10 legit and trusting no information needed .</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Teron</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                                    <div class="wfwrc-review">
+                                <h3 class="wfwrc-review-title">I loved this so much</h3>
+                                <div class="wfwrc-review-stars">
+                                    <div class="wfwrc-review-stars-inner">
+                                                                                                                                    <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                                                                                <div class="full-star"></div>
+                                                                                                                        </div>
+                                </div>
+                                <p class="wfwrc-review-body">I loved this so much the likes instantly came to my tiktok and wowed me so much I didn’t think it was going to work but it did !!</p>
+                                                                        <p class="wfwrc-review-author">
+                                            Review by <span>Marissa Chavez</span> was published on Trustpilot.
+                                        </p>
+                                                                    </div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+        <section id="metrics-secrets" class="service-section">
+            <div class="inner">
+                <div class="header">
+                    <h2>The Simple Secrets Your TikTok Numbers Are Hiding.</h2>
+                    <p>At Celebian.com, we don't just watch your numbers go up. We give you a secret map to use them for real power. We turn simple TikTok checks into a solid way to make your brand strong and ready to grow.</p>
+                </div>
+                <div class="ms-layout">
+                    <div class="ms-left">
+                        <details open class="ms-card">
+                            <summary class="ms-summary">
+                                <h3>1. Followers: Your Group of True Believers.</h3>
+                                <span aria-hidden="true" class="ms-symbol">−</span>
+                            </summary>
+                            <div class="ms-content">
+                                <p>A big follower count feels great. It’s like having a huge crowd cheer for you! This gives you instant power because it shows everyone that your brand is important and trustworthy.</p>
+                                <ul class="ms-list">
+                                    <li>
+                                        <img loading="lazy" src="/img/icons/checkmark__circle--green.svg" alt="Point" draggable="false"/>
+                                        <p><strong>The Big Mistake</strong>: Only caring about the total number of names.</p>
+                                    </li>
+                                    <li>
+                                        <img loading="lazy" src="/img/icons/checkmark__circle--green.svg" alt="Point" draggable="false"/>
+                                        <p><strong>The Smart Focus</strong>: We care about the right people. A quality follower is someone who is truly interested in your topic. When your follower count grows with the right kind of people, the TikTok system (the algorithm) starts to trust you more. This means your videos get seen by more people who will genuinely care about what you do. Stop counting names. Start counting your future community.</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </details>
+
+                        <details class="ms-card">
+                            <summary class="ms-summary">
+                                <h3>2. Likes: The Real Thumbs-Up Test.</h3>
+                                <span aria-hidden="true" class="ms-symbol">+</span>
+                            </summary>
+                            <div class="ms-content">
+                                <p>A Like is a quick, nice smile. It shows someone enjoyed the video for a moment. But two other actions are much more important for long-term growth: Saves and Shares.</p>
+                                <p>If people Save your video, they want to look at it later—it means the content is useful! If they Share it, they think it’s amazing enough for their friends to see. These two actions are the real clue!</p>
+                                <p>We study these Saves and Shares closely. We find out exactly what makes your videos worth keeping. This helps you make more of that "must-watch" content, so you spend less time guessing and more time making things that stick with your audience.</p>
+                            </div>
+                        </details>
+
+                        <details class="ms-card">
+                            <summary class="ms-summary">
+                                <h3>3. Views: Checking Who Stays for the Story.</h3>
+                                <span aria-hidden="true" class="ms-symbol">+</span>
+                            </summary>
+                            <div class="ms-content">
+                                <p>A lot of views is great for reach. But how long do people watch? If 1 million people click but they all leave in one second, the view is useless—it means the video was boring.</p>
+                                <ul class="ms-list">
+                                    <li>
+                                        <img loading="lazy" src="/img/icons/checkmark__circle--green.svg" alt="Point" draggable="false"/>
+                                        <p><strong>The Big Myth</strong>: Counting the total number of Views.</p>
+                                    </li>
+                                    <li>
+                                        <img loading="lazy" src="/img/icons/checkmark__circle--green.svg" alt="Point" draggable="false"/>
+                                        <p><strong>The Real Power</strong>: We look past the big number to see how many people finish the video. A person who watches until the end is much more invested in your message. When your video keeps people watching, the TikTok system loves it and pushes it out even further. This turns a simple view into a person who really cares about what you have to say.</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </details>
+
+                        <div class="ms-cta">
+                            <p><strong>Ready to Master Your Metrics?</strong>
+                                You have the data. Now you need the knowledge to use it like a professional. Stop making content just to get clicks and start building a real audience.</p>
+                            <a href="#landing-services-menu" data-button-analytics-id="See our services - Metrics - Landing" class="button red">
+                                <span>See our services</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="metrics-illustration" class="ms-right">
+                    </div>
+                </div>
+
+                <script>
+                    (function(){
+                        const root = document.getElementById('metrics-secrets');
+                        if(!root) return;
+                        function syncSymbol(d){
+                            const span = d.querySelector('summary span[aria-hidden="true"]');
+                            if(!span) return;
+                            span.textContent = d.open ? '−' : '+';
+                        }
+                        root.querySelectorAll('details').forEach(d => {
+                            syncSymbol(d);
+                            d.addEventListener('toggle', () => syncSymbol(d));
+                        });
+                    })();
+                </script>
+            </div>
+        </section>
+        <section id="landing-sell" class="centered-section">
+            <div class="generic-divider background-top-divider"></div>
+            <div class="generic-divider background-bottom-divider"></div>
+            <div class="inner">
+                <div class="blog-snippet">
+                    <h2>Latest from our blog</h2>
+                    <p>
+                        Have you seen <a href="/blog" class="link link--white">our blog</a> yet? We publish curated
+                        guides and latest marketing trends on a weekly basis. Here's a selection of our hottest
+                        articles right now.
+                    </p>
+                    <div class="blog-snippet__list">
+                                                    <!-- HARD-CODED BLOG SNIPPET -->
+                            <a href="/trends-popularity-and-usage-of-tiktok-in-2023" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="/img/rasterized/trends-popularity-and-usage-of-tiktok-in-2023.png"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>Trends, Popularity and Usage in 2023</strong></span>
+                                    <span>Short videos have become a ubiquitous part of our lives, with the rise of platforms like TikTok, Instagram Reels, and YouTube Shorts. In 2023, the trend of consuming and creating...</span>
+                                </div>
+                            </a>
+                            <!-- HARD-CODED BLOG SNIPPET END -->
+                        
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/tiktok-statistics-to-know-in-2024" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/tiktok-statistics-to-know-in-2024.jpg?v=1727872088"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>TikTok Statistics to Know in 2024</strong></span>
+                                    <span>In just a few short years, TikTok has taken over our screens, capturing the attention of millions worldwide and reshaping how we consume and create content. TikTok has undoubtedly become...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/shortcuts-to-instantly-gain-more-followers-on-tiktok" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/shortcuts-to-instantly-gain-more-followers-on-tiktok.jpg?v=1749032283"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>Shortcuts to Instantly Gain More Followers on TikTok</strong></span>
+                                    <span>You must be living under a rock to not have heard of TikTok. In recent years, this app has exposed many talented people to different worlds of entertainment.
+Unlike other...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/how-to-get-free-likes-on-tiktok-in-2022" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/how-to-get-free-likes-on-tiktok-in-2022.png?v=1749032283"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>How to Get Free Likes on TikTok in 2022</strong></span>
+                                    <span>Your target customers are on TikTok. Over 600 million users are now on the platform, so it sure can help you reach thousands, if not millions, of people around the...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/top-free-ways-to-boost-tiktok-views-in-2022" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/top-free-ways-to-boost-tiktok-views-in-2022.jpg?v=1749032282"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>Top Free Ways to Boost TikTok Views in 2022</strong></span>
+                                    <span>Update: This article was updated in 2022 with the latest information to keep things fresh and stay relevant.If we're being honest and truthful, TikTok is starting to experience a fierce...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/introducing-the-most-stable-tiktok-followers-celebian-has-ever-offered-guaranteed" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/introducing-the-most-stable-tiktok-followers-celebian-has-ever-offered-guaranteed.jpg?v=1760312119"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>Introducing the Most Stable TikTok Followers Celebian Has Ever Offered — Guaranteed!</strong></span>
+                                    <span>TikTok is an incredible place for creators. It's fast, fun, and filled with potential to reach millions of users. But breaking through the noise and getting on the For You...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/how-to-auto-scroll-on-tiktok" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/how-to-auto-scroll-on-tiktok.jpg?v=1757802087"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>How to Auto Scroll on TikTok</strong></span>
+                                    <span>TikTok is one of the most popular apps today. People spend hours watching short videos by swiping up on their screens. But what if you don&rsquo;t want to keep swiping?...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/the-rise-of-tiktok-search" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/the-rise-of-tiktok-search.jpg?v=1757777741"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>The Rise of TikTok Search</strong></span>
+                                    <span>TikTok is reshaping what &ldquo;search&rdquo; looks like.&nbsp;64% of Gen Z and 49% of millennials have used TikTok as a search engine. One in ten Gen Z users prefers it over...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/how-to-find-trending-tiktok-sounds-before-they-go-viral" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/how-to-find-trending-tiktok-sounds-before-they-go-viral.jpg?v=1757054068"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>How to find trending TikTok sounds before they go viral</strong></span>
+                                    <span>On TikTok, trends don&rsquo;t wait for anyone. A sound can go from unknown to everywhere in a day.
+Famous creators spot trending sounds before they officially blow up. Hence, their...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                    <!-- BLOG SNIPPET -->
+                            <a href="https://celebian.com/blog/how-to-build-and-keep-a-loyal-community-on-tiktok" class="blog-snippet__item snippet-item">
+                                <div class="snippet-item__thumbnail async-image-loader-animation" data-load-image
+                                     data-load-image-type="background"
+                                     data-load-image-resource="https://media.celebian.com/public/blog/storage/covers/articles/how-to-build-and-keep-a-loyal-community-on-tiktok.jpg?v=1756948734"></div>
+                                <div class="snippet-item__description">
+                                    <span><strong>How to build and keep a loyal community on TikTok</strong></span>
+                                    <span>Every TikTok creator dreams of an audience that stays, returns, and cares about content.
+But real influence doesn&rsquo;t come from viral moments alone. It comes from people who return again...</span>
+                                </div>
+                            </a>
+                            <!-- BLOG SNIPPET END -->
+                                                <a href="/blog" style="margin: 0; width: 100%; " class="inset-button white">
+                            <img loading="lazy" src="/img/icons/arrow-full-left-white.svg"
+                                 style="transform: rotate(180deg)" alt="Arrow icon" draggable="false"/>
+                            <span>See more posts</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="about-us-content">
+                    <h2>What is Celebian?</h2>
+                    <p>
+                        Currently Celebian is the leading name in TikTok marketing. We're the go-to place for buying
+                        likes,
+                        followers and views for thousands of people and we're proud of having the 'Excellent' rating on
+                        Trustpilot.
+                    </p>
+                    <p>
+                        This journey started in 2019 when TikTok marketing space was in its infancy.
+                        We developed Celebian from the very start to be a step ahead of the competition using our deep
+                        marketing knowledge and vast technical expertise launching the website to become an overnight
+                        success.
+                    </p>
+                    <p>
+                        The time and dedication that we had put into building the user experience, complex order
+                        fulfillment
+                        systems and our lovely support team have paid off to make us the most recognizable brand in
+                        TikTok
+                        marketing. We intend to continue perfecting our services and delivering the best possible
+                        experience
+                        for our clients.
+                    </p>
+                </div>
+                <div class="sell-content">
+                    <h2>Since you're here anyway...</h2>
+                    <p>
+                        Did you know that you can try some of our services for free? Select a category below to learn
+                        more.
+                    </p>
+                    <a href="/buy-tiktok-followers" data-button-analytics-id="TikTok followers - Landing"
+                       class="inset-button white">
+                        <img loading="lazy" src="/img/icons/followers-small-white.svg" alt="Views icon"
+                             draggable="false"/>
+                        <span>TikTok Followers</span>
+                    </a>
+                    <a href="/buy-tiktok-likes" data-button-analytics-id="TikTok likes - Landing"
+                       class="inset-button white">
+                        <img loading="lazy" src="/img/icons/likes-small-white.svg" alt="Likes icon" draggable="false"/>
+                        <span>TikTok Likes</span>
+                    </a>
+                    <a href="/buy-tiktok-views" data-button-analytics-id="TikTok views - Landing"
+                       class="inset-button white">
+                        <img loading="lazy" src="/img/icons/views-small-white.svg" alt="Views icon" draggable="false"/>
+                        <span>TikTok Views</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-likes" data-button-analytics-id="Automatic TikTok likes - Landing"
+                       class="inset-button white">
+                        <img loading="lazy" src="/img/icons/automatic-likes--white.svg" alt="Views icon"
+                             draggable="false"/>
+                        <span>Automatic TikTok Likes</span>
+                    </a>
+                    <a href="/buy-automatic-tiktok-views" data-button-analytics-id="Automatic TikTok views - Landing"
+                       class="inset-button white">
+                        <img loading="lazy" src="/img/icons/automatic-views--white.svg" alt="Views icon"
+                             draggable="false"/>
+                        <span>Automatic TikTok Views</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </div>
+
+        <footer class="landing-gradient">
+    <div class="footer__content">
+                    <div class="footer__logo">
+                <a href="https://celebian.com">
+                    <img loading="lazy" src="/img/tft-white.svg" alt="White Celebian logo" draggable="false" />
+                </a>
+            </div>
+                <div class="footer__sitemap sitemap">
+            <div class="sitemap__row">
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Website</li>
+                        <li><a data-button-analytics-id="Home - Footer" href="https://celebian.com">Home</a></li>
+                                            <li><a data-button-analytics-id="Log in - Footer" href="https://celebian.com/auth">Log in</a></li>
+                                        <li><a data-button-analytics-id="Blog - Footer" href="https://celebian.com/blog">Blog</a></li>
+                    <li><a data-button-analytics-id="Reviews - Footer" href="https://celebian.com/celebian-reviews">Reviews</a></li>
+                </ul>
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Our services</li>
+                    <li><a data-button-analytics-id="Buy likes - Footer" href="https://celebian.com/buy-tiktok-likes">Buy likes</a></li>
+                    <li><a data-button-analytics-id="Buy followers - Footer" href="https://celebian.com/buy-tiktok-followers">Buy followers</a></li>
+                    <li><a data-button-analytics-id="Buy views - Footer" href="https://celebian.com/buy-tiktok-views">Buy views</a></li>
+                </ul>
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Subscriptions</li>
+                    <li><a data-button-analytics-id="Automatic likes - Footer" href="https://celebian.com/buy-automatic-tiktok-likes">Automatic likes</a></li>
+                    <li><a data-button-analytics-id="Automatic views - Footer" href="https://celebian.com/buy-automatic-tiktok-views">Automatic views</a></li>
+                </ul>
+            </div>
+            <div class="sitemap__row">
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Free stuff</li>
+                    <li><a data-button-analytics-id="Free likes - Footer" href="https://celebian.com/free-tiktok-likes">Free likes</a></li>
+                    <li><a data-button-analytics-id="Free views - Footer" href="https://celebian.com/free-tiktok-views">Free views</a></li>
+                </ul>
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Need help?</li>
+                    <li><a data-button-analytics-id="Support - Footer" href="https://celebian.com/support">Support</a></li>
+                    <li><a data-button-analytics-id="Contact us - Footer" href="https://celebian.com/support#support-contact">Contact us</a></li>
+                </ul>
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Legal stuff</li>
+                    <li><a data-button-analytics-id="Privacy Policy - Footer" href="https://celebian.com/privacy-policy">Privacy Policy</a></li>
+                    <li><a data-button-analytics-id="Terms of Service - Footer" href="https://celebian.com/terms-of-service">Terms of service</a></li>
+                </ul>
+            </div>
+            <div class="sitemap__row sitemap__row--special">
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Tools for TikTok</li>
+                    <li><a data-button-analytics-id="Download Video Without Watermark - Footer" href="https://celebian.com/tools/download-tiktok-without-watermark">Download video without watermark</a></li>
+                    <li><a data-button-analytics-id="Tiktok Live Follower Count - Footer" href="https://celebian.com/tools/tiktok-followers-count">Tiktok Live Follower Count</a></li>
+                    <li><a data-button-analytics-id="Download Profile Picture views - Footer" href="https://celebian.com/tools/tiktok-profile-picture-download">Download profile picture</a></li>
+                </ul>
+            </div>
+            <div class="sitemap__row sitemap__row--special">
+                <ul class="sitemap__category">
+                    <li class="sitemap__category-name">Research of TikTok trends</li>
+                    <li><a data-button-analytics-id="TikTok statistics to know in 2024 - Footer" href="https://celebian.com/tiktok-statistics-to-know-in-2024">TikTok statistics to know in 2024</a></li>
+                    <li><a data-button-analytics-id="Trends, popularity and usage of TikTok 2023 - Footer" href="https://celebian.com/trends-popularity-and-usage-of-tiktok-in-2023">Trends, popularity and usage of TikTok 2023</a></li>
+                </ul>
+            </div>
+            <div class="footer__trustpilot">
+                <img loading="lazy" src="/img/illustrations/trustpilot-5-stars.svg" alt="Trustpilot - 5 stars" draggable="false" width="160" height="30" />
+                <span>4.7 | Rated Excellent on Trustpilot</span>
+            </div>
+            <div class="footer__info">
+                <div>
+                    <p class="title">Our address</p>
+                    <span>Celebian LLC, 420 Haul Road, 94041 California, United States</span>
+                </div>
+                <div>
+                    <p class="title">Customer support</p>
+                    <span><a href="/cdn-cgi/l/email-protection#f98a8c8989968b8db99a9c959c9b909897d79a9694"><span class="__cf_email__" data-cfemail="790a0c0909160b0d391a1c151c1b101817571a1614">[email&#160;protected]</span></a></span>
+                    <p>United States (Toll-free)</p>
+                    <span><a href="tel:+18559461644">+1 (855) 946-1644</a></span>
+                    <p>United Kingdom (Toll-free)</p>
+                    <span><a href="tel:+448085022255">+44 808 502 2255</a></span>
+                    <p>Canada (Toll-free)</p>
+                    <span><a href="tel:+18556044909">+1 (855) 604-4909</a></span>
+                </div>
+            </div>
+            <div class="footer__copyright">Copyright © 2025 / <a href="https://celebian.com">celebian.com</a> / All rights reserved</div>
+                    </div>
+    </div>
+</footer>
+
+    <!-- LAZY LOAD SCRIPT -->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const lazyVideos = [].slice.call(document.querySelectorAll("video.lazy"));
+
+            if ("IntersectionObserver" in window) {
+                const lazyVideoObserver = new IntersectionObserver(function (entries, observer) {
+                    entries.forEach(function (video) {
+                        if (video.isIntersecting) {
+                            for (const source in video.target.children) {
+                                const videoSource = video.target.children[source];
+                                if (typeof videoSource.tagName === "string" && videoSource.tagName === "SOURCE") {
+                                    videoSource.src = videoSource.dataset.src;
+                                }
+                            }
+
+                            video.target.load();
+                            video.target.classList.remove("lazy");
+                            lazyVideoObserver.unobserve(video.target);
+                        }
+                    });
+                });
+
+                lazyVideos.forEach(function (lazyVideo) {
+                    lazyVideoObserver.observe(lazyVideo);
+                });
+            }
+        });
+    </script>
+    <!-- LAZY LOAD SCRIPT END -->
+    <!--  RICH DATA -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "image": "https://celebian.com/img/rasterized/product-card__celebian.png",
+            "url": "https://celebian.com",
+            "sameAs": ["https://celebian.com/", "https://www.celebian.com"],
+            "logo": "https://celebian.com/resources/img/logo.svg",
+            "name": "Celebian",
+            "description": "At Celebian you can buy TikTok followers, likes and views of highest quality. Trusted by thousands of clients and rated 'Excellent' on Trustpilot - Celebian is the platform for your TikTok marketing needs. All of our services are verified and delivery is guaranteed.",
+            "email": "support@celebian.com",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": "5",
+                "ratingCount": "34"
+            }
+        }
+    </script>
+    <!--  RICH DATA END -->
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9963af27184673a2',t:'MTc2MTc1MTUxMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+<script type="text/javascript">
+    if(!window.__config){
+        window.__config = {}
+    }
+
+    window.__config.token = "k4makmQCAf9noXrjRJAGPMR8Pd6HZoW95u40VHQX";
+</script>
+<script src="https://browser.sentry-cdn.com/7.74.1/bundle.tracing.min.js"
+        integrity="sha384-1Ez4jfPb8+JxwhUMOcsZ2lSNLTABaKqokJNwn2XQCEgmFuwMewLCLyOKGQbLNYsp"
+        crossorigin="anonymous">
+</script>
+<script>
+    try{
+        Sentry.init({
+            dsn: "https://f791bd4d82054391ae6ab1e3203ef1a8@o228640.ingest.sentry.io/5458290",
+            integrations: [new Sentry.BrowserTracing()],
+            tracesSampleRate: 1.0,
+        });
+    } catch (e) {
+        console.error(e);
+    }
+</script>
+<script src="https://use.typekit.net/ova1rns.js"></script>
+<script>
+    try{
+        Typekit.load({ async: true });
+    } catch(e){
+        console.error("Typekit failed to load!", e.toString());
+    }
+</script>
+<script type="text/javascript" src="/js/standalone/consent.js"></script>
+    <script type="text/javascript" src="/js/landing_bundle.js?id=9ef75efde624f19fc868d226501c3e2a" async></script>
+    <script type="text/javascript" src="https://load.fomo.com/api/v1/1zSC28RmrrfXeme7n7MAlw/load.js" defer></script>
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=b7fe2639-3200-4c38-b856-6ac3bcf3835a"
+            defer></script>
+    <script type="text/javascript" src="/js/lite-yt-embed.js" defer></script>
+<!-- LOW PRIORITY SCRIPTS -->
+<script>
+    (function() {
+        var mmapiws = window.__mmapiws = window.__mmapiws || {};
+        mmapiws.accountId = "1162956";
+        var loadDeviceJs = function() {
+            var element = document.createElement('script');
+            element.async = true;
+            element.src = 'https://device.maxmind.com/js/device.js';
+            document.body.appendChild(element);
+        };
+        if (window.addEventListener) {
+            window.addEventListener('load', loadDeviceJs, false);
+        } else if (window.attachEvent) {
+            window.attachEvent('onload', loadDeviceJs);
+        }
+    })();
+</script>
+<!-- LOW PRIORITY SCRIPTS END -->
+</html>
