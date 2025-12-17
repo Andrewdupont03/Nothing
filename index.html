@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ping-Pong Web - Deux Joueurs</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 800px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            background: linear-gradient(to right, #ff416c, #ff4b2b);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #a5b1c2;
+            margin-bottom: 20px;
+        }
+
+        .game-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            max-width: 800px;
+        }
+
+        .game-info {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-bottom: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .player-score {
+            text-align: center;
+            flex: 1;
+        }
+
+        .player-name {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .player1 .player-name {
+            color: #3498db;
+        }
+
+        .player2 .player-name {
+            color: #e74c3c;
+        }
+
+        .score {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .vs {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: #f1c40f;
+            padding: 0 20px;
+        }
+
+        .game-wrapper {
+            position: relative;
+            width: 100%;
+            background-color: #0f3460;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            margin-bottom: 20px;
+        }
+
+        #gameCanvas {
+            display: block;
+            width: 100%;
+            background-color: #0c2a4d;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .control-box {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 15px;
+            width: 48%;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .control-box h3 {
+            margin-bottom: 10px;
+            color: #f1c40f;
+            font-size: 1.3rem;
+        }
+
+        .control-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        .key {
+            display: inline-block;
+            background: rgba(0, 0, 0, 0.5);
+            border: 1px solid #555;
+            border-radius: 5px;
+            padding: 5px 10px;
+            margin-right: 10px;
+            font-family: monospace;
+            min-width: 40px;
+            text-align: center;
+        }
+
+        .game-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        button {
+            background: linear-gradient(to right, #3498db, #2980b9);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        button:active {
+            transform: translateY(1px);
+        }
+
+        #resetBtn {
+            background: linear-gradient(to right, #e74c3c, #c0392b);
+        }
+
+        #pauseBtn {
+            background: linear-gradient(to right, #f39c12, #e67e22);
+        }
+
+        .instructions {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            width: 100%;
+            margin-top: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .instructions h3 {
+            color: #f1c40f;
+            margin-bottom: 10px;
+            font-size: 1.3rem;
+        }
+
+        .instructions p {
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+
+        .winner-message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.85);
+            padding: 30px 50px;
+            border-radius: 15px;
+            text-align: center;
+            z-index: 10;
+            display: none;
+            box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);
+            border: 3px solid #f1c40f;
+        }
+
+        .winner-message h2 {
+            font-size: 2.5rem;
+            color: #f1c40f;
+            margin-bottom: 10px;
+        }
+
+        .winner-message p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            margin-top: 20px;
+            color: #a5b1c2;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .control-box {
+                width: 100%;
+            }
+            
+            .game-buttons {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PING-PONG WEB</h1>
+        <p class="subtitle">Affrontez un ami dans ce jeu de ping-pong classique !</p>
+    </header>
+
+    <div class="game-container">
+        <div class="game-info">
+            <div class="player-score player1">
+                <div class="player-name">JOUEUR 1</div>
+                <div id="score1" class="score">0</div>
+            </div>
+            <div class="vs">VS</div>
+            <div class="player-score player2">
+                <div class="player-name">JOUEUR 2</div>
+                <div id="score2" class="score">0</div>
+            </div>
+        </div>
+
+        <div class="game-wrapper">
+            <canvas id="gameCanvas" width="800" height="500"></canvas>
+            <div id="winnerMessage" class="winner-message">
+                <h2>VICTOIRE !</h2>
+                <p id="winnerText">Le Joueur 1 remporte la partie !</p>
+                <button id="playAgainBtn">Rejouer</button>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="control-box">
+                <h3>Contrôles Joueur 1</h3>
+                <div class="control-item">
+                    <span class="key">Z</span>
+                    <span>Déplacer vers le haut</span>
+                </div>
+                <div class="control-item">
+                    <span class="key">S</span>
+                    <span>Déplacer vers le bas</span>
+                </div>
+            </div>
+            <div class="control-box">
+                <h3>Contrôles Joueur 2</h3>
+                <div class="control-item">
+                    <span class="key">↑</span>
+                    <span>Déplacer vers le haut</span>
+                </div>
+                <div class="control-item">
+                    <span class="key">↓</span>
+                    <span>Déplacer vers le bas</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="game-buttons">
+            <button id="startBtn">Démarrer la partie</button>
+            <button id="pauseBtn">Pause / Reprendre</button>
+            <button id="resetBtn">Réinitialiser</button>
+        </div>
+
+        <div class="instructions">
+            <h3>Comment jouer ?</h3>
+            <p>• Le premier joueur à atteindre 11 points avec 2 points d'écart gagne la partie.</p>
+            <p>• Utilisez les touches Z/S pour le Joueur 1 (gauche) et les flèches ↑/↓ pour le Joueur 2 (droite).</p>
+            <p>• La balle accélère progressivement après chaque rebond sur une raquette.</p>
+            <p>• Appuyez sur ESPACE pour lancer la balle au début de chaque manche.</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Jeu de Ping-Pong Web - Développé avec HTML5 Canvas et JavaScript</p>
+    </div>
+
+    <script>
+        // Récupération des éléments du DOM
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const score1Element = document.getElementById('score1');
+        const score2Element = document.getElementById('score2');
+        const startBtn = document.getElementById('startBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const resetBtn = document.getElementById('resetBtn');
+        const playAgainBtn = document.getElementById('playAgainBtn');
+        const winnerMessage = document.getElementById('winnerMessage');
+        const winnerText = document.getElementById('winnerText');
+
+        // Variables du jeu
+        let gameRunning = false;
+        let gamePaused = false;
+        let animationFrameId = null;
+        let scores = { player1: 0, player2: 0 };
+        let winningScore = 11;
+        let needTwoPointLead = true;
+
+        // Dimensions des raquettes
+        const paddleWidth = 15;
+        const paddleHeight = 100;
+        const paddleSpeed = 8;
+
+        // Position des raquettes
+        let player1Y = canvas.height / 2 - paddleHeight / 2;
+        let player2Y = canvas.height / 2 - paddleHeight / 2;
+
+        // Propriétés de la balle
+        let ballX = canvas.width / 2;
+        let ballY = canvas.height / 2;
+        let ballRadius = 10;
+        let ballSpeedX = 5;
+        let ballSpeedY = 3;
+        const initialBallSpeedX = 5;
+
+        // États des touches
+        const keys = {
+            ArrowUp: false,
+            ArrowDown: false,
+            KeyZ: false,
+            KeyS: false
+        };
+
+        // Effets visuels
+        let lastHitTime = 0;
+        const trail = [];
+
+        // Initialisation du jeu
+        function initGame() {
+            // Arrêter l'animation précédente si elle existe
+            if (animationFrameId) {
+                cancelAnimationFrame(animationFrameId);
+            }
+            
+            // Réinitialiser les scores
+            scores = { player1: 0, player2: 0 };
+            updateScoreDisplay();
+            
+            // Réinitialiser les positions
+            player1Y = canvas.height / 2 - paddleHeight / 2;
+            player2Y = canvas.height / 2 - paddleHeight / 2;
+            
+            // Réinitialiser la balle
+            resetBall();
+            
+            // Cacher le message de victoire
+            winnerMessage.style.display = 'none';
+            
+            // Démarrer le jeu
+            gameRunning = true;
+            gamePaused = false;
+            startBtn.textContent = 'Partie en cours...';
+            startBtn.disabled = true;
+            pauseBtn.textContent = 'Pause';
+            gameLoop();
+        }
+
+        // Réinitialiser la balle au centre
+        function resetBall() {
+            ballX = canvas.width / 2;
+            ballY = canvas.height / 2;
+            
+            // Direction aléatoire au début
+            ballSpeedX = initialBallSpeedX * (Math.random() > 0.5 ? 1 : -1);
+            ballSpeedY = (Math.random() * 4 - 2);
+            
+            // Réinitialiser les effets
+            trail.length = 0;
+        }
+
+        // Mettre à jour l'affichage des scores
+        function updateScoreDisplay() {
+            score1Element.textContent = scores.player1;
+            score2Element.textContent = scores.player2;
+        }
+
+        // Vérifier si un joueur a gagné
+        function checkWin() {
+            if (scores.player1 >= winningScore || scores.player2 >= winningScore) {
+                // Vérifier l'écart de 2 points si nécessaire
+                if (needTwoPointLead) {
+                    const pointDiff = Math.abs(scores.player1 - scores.player2);
+                    if (pointDiff >= 2) {
+                        return true;
+                    }
+                } else {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // Afficher le message de victoire
+        function showWinner() {
+            const winner = scores.player1 > scores.player2 ? "Joueur 1" : "Joueur 2";
+            winnerText.textContent = `${winner} remporte la partie !`;
+            winnerMessage.style.display = 'block';
+            gameRunning = false;
+            startBtn.textContent = 'Démarrer la partie';
+            startBtn.disabled = false;
+            
+            // Arrêter l'animation
+            if (animationFrameId) {
+                cancelAnimationFrame(animationFrameId);
+                animationFrameId = null;
+            }
+        }
+
+        // Dessiner les éléments du jeu
+        function draw() {
+            // Fond du terrain
+            ctx.fillStyle = '#0c2a4d';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            // Ligne médiane pointillée
+            ctx.beginPath();
+            ctx.setLineDash([10, 15]);
+            ctx.moveTo(canvas.width / 2, 0);
+            ctx.lineTo(canvas.width / 2, canvas.height);
+            ctx.strokeStyle = 'rgba(255, 255, 255, 0.3)';
+            ctx.lineWidth = 2;
+            ctx.stroke();
+            ctx.setLineDash([]);
+            
+            // Effet de traînée de la balle
+            for (let i = 0; i < trail.length; i++) {
+                const alpha = i / trail.length * 0.5;
+                const radius = ballRadius * (i / trail.length);
+                
+                ctx.beginPath();
+                ctx.arc(trail[i].x, trail[i].y, radius, 0, Math.PI * 2);
+                ctx.fillStyle = `rgba(255, 255, 255, ${alpha})`;
+                ctx.fill();
+            }
+            
+            // Dessiner la balle
+            ctx.beginPath();
+            ctx.arc(ballX, ballY, ballRadius, 0, Math.PI * 2);
+            ctx.fillStyle = '#fff';
+            ctx.fill();
+            
+            // Effet de brillance sur la balle
+            ctx.beginPath();
+            ctx.arc(ballX - ballRadius/3, ballY - ballRadius/3, ballRadius/3, 0, Math.PI * 2);
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.6)';
+            ctx.fill();
+            
+            // Dessiner les raquettes
+            // Joueur 1 (gauche)
+            ctx.fillStyle = '#3498db';
+            ctx.fillRect(20, player1Y, paddleWidth, paddleHeight);
+            
+            // Joueur 2 (droite)
+            ctx.fillStyle = '#e74c3c';
+            ctx.fillRect(canvas.width - 20 - paddleWidth, player2Y, paddleWidth, paddleHeight);
+            
+            // Effets de brillance sur les raquettes
+            ctx.fillStyle = 'rgba(255, 255, 255, 0.3)';
+            ctx.fillRect(20, player1Y, 5, paddleHeight); // Joueur 1
+            ctx.fillRect(canvas.width - 20 - 5, player2Y, 5, paddleHeight); // Joueur 2
+            
+            // Afficher "PAUSE" si le jeu est en pause
+            if (gamePaused) {
+                ctx.fillStyle = 'rgba(0, 0, 0, 0.7)';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                
+                ctx.font = 'bold 60px Arial';
+                ctx.fillStyle = '#f39c12';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                ctx.fillText('PAUSE', canvas.width / 2, canvas.height / 2);
+                
+                ctx.font = '24px Arial';
+                ctx.fillStyle = '#fff';
+                ctx.fillText('Appuyez sur le bouton "Pause / Reprendre" pour continuer', canvas.width / 2, canvas.height / 2 + 60);
+            }
+        }
+
+        // Mettre à jour la logique du jeu
+        function update() {
+            if (gamePaused) return;
+            
+            // Mettre à jour la position des raquettes selon les touches pressées
+            // Joueur 1 (Z/S)
+            if (keys.KeyZ && player1Y > 0) {
+                player1Y -= paddleSpeed;
+            }
+            if (keys.KeyS && player1Y < canvas.height - paddleHeight) {
+                player1Y += paddleSpeed;
+            }
+            
+            // Joueur 2 (Flèches)
+            if (keys.ArrowUp && player2Y > 0) {
+                player2Y -= paddleSpeed;
+            }
+            if (keys.ArrowDown && player2Y < canvas.height - paddleHeight) {
+                player2Y += paddleSpeed;
+            }
+            
+            // Mettre à jour la position de la balle
+            ballX += ballSpeedX;
+            ballY += ballSpeedY;
+            
+            // Ajouter la position actuelle à la traînée
+            trail.push({x: ballX, y: ballY});
+            if (trail.length > 10) {
+                trail.shift();
+            }
+            
+            // Collision avec les bords haut/bas
+            if (ballY - ballRadius < 0 || ballY + ballRadius > canvas.height) {
+                ballSpeedY = -ballSpeedY;
+                
+                // Effet sonore simulé (nous pourrions ajouter du son réel)
+                lastHitTime = Date.now();
+            }
+            
+            // Collision avec la raquette du joueur 1 (gauche)
+            if (ballX - ballRadius < 20 + paddleWidth && 
+                ballX - ballRadius > 20 &&
+                ballY > player1Y && 
+                ballY < player1Y + paddleHeight) {
+                
+                // Calculer l'angle de rebond selon l'endroit où la balle touche la raquette
+                const hitPos = (ballY - (player1Y + paddleHeight / 2)) / (paddleHeight / 2);
+                ballSpeedX = Math.abs(ballSpeedX) * 1.05; // Accélérer légèrement
+                ballSpeedY = hitPos * 5;
+                
+                // Assurer que la balle ne reste pas bloquée
+                ballX = 20 + paddleWidth + ballRadius;
+                
+                // Effet visuel
+                lastHitTime = Date.now();
+            }
+            
+            // Collision avec la raquette du joueur 2 (droite)
+            if (ballX + ballRadius > canvas.width - 20 - paddleWidth && 
+                ballX + ballRadius < canvas.width - 20 &&
+                ballY > player2Y && 
+                ballY < player2Y + paddleHeight) {
+                
+                // Calculer l'angle de rebond
+                const hitPos = (ballY - (player2Y + paddleHeight / 2)) / (paddleHeight / 2);
+                ballSpeedX = -Math.abs(ballSpeedX) * 1.05; // Accélérer légèrement
+                ballSpeedY = hitPos * 5;
+                
+                // Assurer que la balle ne reste pas bloquée
+                ballX = canvas.width - 20 - paddleWidth - ballRadius;
+                
+                // Effet visuel
+                lastHitTime = Date.now();
+            }
+            
+            // Vérifier si un joueur a marqué un point
+            if (ballX < 0) {
+                // Joueur 2 marque
+                scores.player2++;
+        
