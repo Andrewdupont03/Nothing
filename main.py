@@ -1,31 +1,51 @@
+import os
+
 from telegram import Update
 from telegram.ext import (
-    ApplicationBuilder, CommandHandler, MessageHandler,
-    ContextTypes, filters, PreCheckoutQueryHandler
+    ApplicationBuilder,
+    CommandHandler,
+    MessageHandler,
+    ContextTypes,
+    filters,
+    PreCheckoutQueryHandler,
 )
 
 from crypto_utils import encrypt_message, decrypt_message
-from trials import init_db, can_use, consume_trial, set_premium, get_user
+from trials import (
+    init_db,
+    can_use,
+    consume_trial,
+    set_premium,
+    get_user,
+)
 from payments import invoice
-from config import BOT_TOKEN
 
+# ─── SÉCURITÉ : TOKENS OBLIGATOIRES ─────────────────────────────────────────────
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+if not BOT_TOKEN:
+    raise RuntimeError("BOT_TOKEN manquant (variable d’environnement)")
+
+# ─── INIT ──────────────────────────────────────────────────────────────────────
 init_db()
 states = {}
+
+# ─── COMMANDES ─────────────────────────────────────────────────────────────────
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
         "🔐 Bot de chiffrement AES sécurisé\n\n"
-        "• /encrypt – Chiffrer\n"
-        "• /decrypt – Déchiffrer\n"
-        "• /tries – Essais restants\n"
-        "• /upgrade – Passer Premium\n\n"
+        "Commandes :\n"
+        "/encrypt – Chiffrer un message\n"
+        "/decrypt – Déchiffrer un message\n"
+        "/tries – Essais restants\n"
+        "/upgrade – Passer Premium\n\n"
         "🛡️ Aucun message ni mot de passe n’est stocké."
     )
 
 async def tries(update: Update, context: ContextTypes.DEFAULT_TYPE):
     trials, premium = get_user(update.effective_user.id)
     if premium:
-        await update.message.reply_text("⭐ Premium actif – essais illimités")
+        await update.message.reply_text("⭐ Premium actif – accès illimité")
     else:
         await update.message.reply_text(f"📊 Essais restants : {trials}")
 
@@ -34,7 +54,7 @@ async def encrypt(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not can_use(uid):
         await update.message.reply_text("❌ Essais épuisés. /upgrade")
         return
-    states[uid] = {"mode": "encrypt", "step": "message"}
+    states[uid] = {"mode": "encrypt", "step": "data"}
     await update.message.reply_text("✏️ Entrez le message à chiffrer")
 
 async def decrypt(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -42,8 +62,10 @@ async def decrypt(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not can_use(uid):
         await update.message.reply_text("❌ Essais épuisés. /upgrade")
         return
-    states[uid] = {"mode": "decrypt", "step": "token"}
+    states[uid] = {"mode": "decrypt", "step": "data"}
     await update.message.reply_text("🔐 Entrez le message chiffré")
+
+# ─── MESSAGES TEXTE ────────────────────────────────────────────────────────────
 
 async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.effective_user.id
@@ -52,7 +74,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     state = states[uid]
 
-    if state["step"] in ("message", "token"):
+    if state["step"] == "data":
         state["data"] = update.message.text
         state["step"] = "password"
         await update.message.reply_text("🔑 Entrez le mot de passe")
@@ -73,6 +95,8 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
     finally:
         del states[uid]
 
+# ─── PAIEMENT ──────────────────────────────────────────────────────────────────
+
 async def upgrade(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_invoice(**invoice(update.effective_chat.id))
 
@@ -81,7 +105,9 @@ async def precheckout(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def successful_payment(update: Update, context: ContextTypes.DEFAULT_TYPE):
     set_premium(update.effective_user.id)
-    await update.message.reply_text("✅ Premium activé. Merci pour votre confiance 🔐")
+    await update.message.reply_text("✅ Premium activé. Merci 🔐")
+
+# ─── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
     app = ApplicationBuilder().token(BOT_TOKEN).build()

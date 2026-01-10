@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Database
+database.db
+
+# OS
+.DS_Store
