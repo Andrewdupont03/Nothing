@@ -1,7 +1,3 @@
-Parfait 🔥 Voici un **README complet et prêt à GitHub / deployment**, avec **tout inclus** pour ton bot AES + Moov/TMONEY + essais gratuits :
-
----
-
 # 🔐 Bot Telegram – Chiffrement AES sécurisé avec paiement Moov/TMONEY
 
 Bot Telegram qui permet de :
